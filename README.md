@@ -27,5 +27,5 @@ This Python-based application helps you take control of your finances. Easily re
     </tr>
   </table>
   <!-- Sparkling Divider -->
-  <img src="<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/l0ExjbToOj4n23OmY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oscars-academy-awards-oscars-1985-l0ExjbToOj4n23OmY"></a></p>" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpNnVhcmxrMHVjbXo0b3pqMnF1amU5Y3BscWE2NGszaXlrc282ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjbToOj4n23OmY/giphy.webp" width="300">
 </div>

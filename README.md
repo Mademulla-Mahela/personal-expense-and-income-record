@@ -27,5 +27,6 @@ This Python-based application helps you take control of your finances. Easily re
     </tr>
   </table>
 
-  ![Contribution Snake](https://github.com/Mademulla-Mahela/Mademulla-Mahela/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mademulla-Mahela&show_icons=true&theme=react)
+
 

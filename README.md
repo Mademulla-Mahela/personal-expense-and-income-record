@@ -1,7 +1,6 @@
-# personal-expense-and-income-record
-This Python-based application helps you take control of your finances. Easily record income, expenses, and track financial goals. Uses JSON for data storage and offers customizable reporting. Perfect for budgeting, saving, and understanding your spending habits.
+
 <div align="center">
-  <h1>✨ Welcome to Mademulla-Mahela's GitHub ✨</h1>
+  <h1>✨ Welcome to My GitHub ✨</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
   <!-- Badges Section -->
@@ -9,7 +8,8 @@ This Python-based application helps you take control of your finances. Easily re
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mademulla-Mahela?label=Followers&style=social">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Mademulla-Mahela?label=Stars&style=social">
   </p>
-
+  <p># personal-expense-and-income-record
+This Python-based application helps you take control of your finances. Easily record income, expenses, and track financial goals. Uses JSON for data storage and offers customizable reporting. Perfect for budgeting, saving, and understanding your spending habits.</p>
   <!-- Stats Section -->
   <table>
     <tr>
@@ -26,7 +26,20 @@ This Python-based application helps you take control of your finances. Easily re
       </td>
     </tr>
   </table>
+  <table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mademulla-Mahela&theme=radical&show_icons=true&count_private=true" alt="Mademulla-Mahela's GitHub Stats" />
+      <br><br>
+      <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mademulla-Mahela&theme=radical&hide_border=false" />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mademulla-Mahela&theme=radical&hide_border=false&langs_count=10&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
   <!-- Sparkling Divider -->
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQBK3i2Y/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/xT0GqeSlGSRQBK3i2Y/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpNnVhcmxrMHVjbXo0b3pqMnF1amU5Y3BscWE2NGszaXlrc282ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjbToOj4n23OmY/giphy.webp)" width="300">
 </div>

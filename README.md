@@ -8,7 +8,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mademulla-Mahela?label=Followers&style=social">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Mademulla-Mahela?label=Stars&style=social">
   </p>
-  <p># personal-expense-and-income-record
+  <p> <b></b>personal expense and income record </b><br>
 This Python-based application helps you take control of your finances. Easily record income, expenses, and track financial goals. Uses JSON for data storage and offers customizable reporting. Perfect for budgeting, saving, and understanding your spending habits.</p>
   <!-- Stats Section -->
   <table>
@@ -30,7 +30,7 @@ This Python-based application helps you take control of your finances. Easily re
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AMademulla-Mahela&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mademulla-Mahela&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mademulla-Mahela&theme=dark&hide_border=false" /> 
 </td>
@@ -43,5 +43,5 @@ This Python-based application helps you take control of your finances. Easily re
 </tr>
 </table>
   <!-- Sparkling Divider -->
-  <img src="[https://media.giphy.com/media/xT0GqeSlGSRQBK3i2Y/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpNnVhcmxrMHVjbXo0b3pqMnF1amU5Y3BscWE2NGszaXlrc282ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjbToOj4n23OmY/giphy.webp)" width="300">
+  <img src="[[https://media.giphy.com/media/xT0GqeSlGSRQBK3i2Y/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpNnVhcmxrMHVjbXo0b3pqMnF1amU5Y3BscWE2NGszaXlrc282ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjbToOj4n23OmY/giphy.webp)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdpNnVhcmxrMHVjbXo0b3pqMnF1amU5Y3BscWE2NGszaXlrc282ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExjbToOj4n23OmY/giphy.gif)" width="300">
 </div>

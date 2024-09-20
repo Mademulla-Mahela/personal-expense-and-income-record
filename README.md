@@ -27,6 +27,5 @@ This Python-based application helps you take control of your finances. Easily re
     </tr>
   </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mademulla-Mahela&show_icons=true&theme=react)
 
 

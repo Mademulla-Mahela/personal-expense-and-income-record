@@ -26,11 +26,6 @@ This Python-based application helps you take control of your finances. Easily re
       </td>
     </tr>
   </table>
-  <!-- line graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mademulla-Mahela&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
-  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyZWFpcGowNWpxc3R5M2dycDZ2ZHY4YmlsbmZjZXU1Z3ppaG1xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4j8dnlKVV3MyRcjEz/giphy.webp" width="300">
-</div>
+  ![Contribution Snake](https://github.com/Mademulla-Mahela/Mademulla-Mahela/blob/output/github-contribution-grid-snake.svg)
+

@@ -26,6 +26,30 @@ This Python-based application helps you take control of your finances. Easily re
       </td>
     </tr>
   </table>
-  <!-- Sparkling Divider -->
+  <!-- line graph -->
+<div align="center">
+
+  ### 📊 My GitHub Stats
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Mademulla-Mahela&show_icons=true&theme=radical&count_private=true" alt="Mademulla-Mahela's GitHub Stats">
+      </td>
+      <td>
+        <!-- GitHub Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mademulla-Mahela&layout=compact&theme=radical" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+
+  ### 📈 GitHub Commit Activity
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Mademulla-Mahela&theme=react-dark" alt="GitHub Activity Graph" />
+  </p>
+
+</div>
+
+  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEyZWFpcGowNWpxc3R5M2dycDZ2ZHY4YmlsbmZjZXU1Z3ppaG1xbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a4j8dnlKVV3MyRcjEz/giphy.webp" width="300">
 </div>
